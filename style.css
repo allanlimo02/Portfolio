@@ -49,6 +49,8 @@ body{
 .myProjects{
     width: auto;
     background-color:#20abab;
+    padding-top: 50px;
+    padding-bottom: 50px;
     
 }
 .projo{
