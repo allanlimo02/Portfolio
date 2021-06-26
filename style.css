@@ -6,7 +6,7 @@ body{
 /* Header section */
 .header{
     text-align: center;
-    background-image: url(/assets/sunset.jpg);
+    background-image: url(./assets/sunset.jpg);
     background-size: cover;
     
     color: wheat;
@@ -35,7 +35,7 @@ body{
 }
 .abt-img{
     width: 50%;
-    background-image: url(/assets/ba2.png);
+    background-image: url(./assets/ba2.png);
     background-size: cover;
 }
 .abt-txt{
