@@ -35,15 +35,17 @@ body{
 }
 .abt-img{
     width: 50%;
-    background-image: url(./assets/ba2.png);
+    background-image: url(./assets/mCIfLX.jpg);
     background-size: cover;
 }
 .abt-txt{
     width: 50%;
+    padding-left: 20px;
 }
 .abt-img img{
     border-radius: 20%;
     width: 50%;
+    
 }
 /* My projects */
 .myProjects{
@@ -61,8 +63,9 @@ body{
     text-align: center;
 }
 .pr1,.pr2,.pr3{
-    border: solid black 5px;
+    /* border: solid black 5px; */
     padding: 40px;
+    background-color: white;
     margin: 10px;
     width: 30%;
     border-radius: 19px;
